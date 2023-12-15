@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31.999" height="32.002" viewBox="0 0 31.999 32.002">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#112436"/>
+      <stop offset="1" stop-color="#235684"/>
+    </linearGradient>
+  </defs>
+  <g id="Gruppe_9067" data-name="Gruppe 9067" transform="translate(5 6.001)">
+    <path id="Ausschluss_1" data-name="Ausschluss 1" class="cls-1" d="M-4131,10951a15.894,15.894,0,0,1-11.315-4.687A15.9,15.9,0,0,1-4147,10935a15.9,15.9,0,0,1,4.686-11.314A15.894,15.894,0,0,1-4131,10919a15.89,15.89,0,0,1,11.313,4.687A15.9,15.9,0,0,1-4115,10935a15.9,15.9,0,0,1-4.686,11.314A15.89,15.89,0,0,1-4131,10951Zm-1.71-22.777a2.01,2.01,0,0,0-2.008,2v8.726a2.011,2.011,0,0,0,2.008,2.006,1.973,1.973,0,0,0,1.208-.417l5.692-4.364a1.984,1.984,0,0,0,.783-1.585,1.992,1.992,0,0,0-.783-1.59l-5.692-4.361A1.975,1.975,0,0,0-4132.709,10928.224Z" transform="translate(4142 -10925)"/>
+  </g>
+</svg>

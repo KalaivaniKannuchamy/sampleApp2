@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31.999" height="31.999" viewBox="0 0 31.999 31.999">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#112436"/>
+      <stop offset="1" stop-color="#235684"/>
+    </linearGradient>
+  </defs>
+  <g id="Gruppe_10226" data-name="Gruppe 10226" transform="translate(-4947.258 12661.295)">
+    <path id="Pfad_3280" data-name="Pfad 3280" class="cls-1" d="M18.764,8.1a1.333,1.333,0,0,0-1.885,0l-3.448,3.448L9.983,8.1A1.333,1.333,0,1,0,8.1,9.983l3.448,3.448L8.1,16.879a1.333,1.333,0,1,0,1.885,1.885l3.448-3.448,3.448,3.448a1.333,1.333,0,1,0,1.885-1.885l-3.448-3.448,3.448-3.448A1.333,1.333,0,0,0,18.764,8.1Z" transform="translate(4949.826 -12658.725)"/>
+    <path id="Pfad_3281" data-name="Pfad 3281" class="cls-1" d="M16,0A16,16,0,1,0,32,16,16,16,0,0,0,16,0Zm0,29.333A13.333,13.333,0,1,1,29.333,16,13.333,13.333,0,0,1,16,29.333Z" transform="translate(4947.258 -12661.295)"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.499" height="33" viewBox="0 0 24.499 33">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: rgba(0,0,0,0);
+        stroke-miterlimit: 10;
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#112436"/>
+      <stop offset="1" stop-color="#235684"/>
+    </linearGradient>
+  </defs>
+  <path id="Pfad_2441" data-name="Pfad 2441" class="cls-1" d="M266.719,262.75v-10.9a3.726,3.726,0,0,0-1.1-2.651l-3.6-3.6a3.725,3.725,0,0,0-2.653-1.1h-8.647a2.5,2.5,0,0,0-2.5,2.5v22a2.5,2.5,0,0,0,2.5,2.5h13.5a2.5,2.5,0,0,0,2.5-2.5,1.25,1.25,0,1,1,2.5,0,5.005,5.005,0,0,1-5,5h-13.5a5.005,5.005,0,0,1-5-5V247a5.006,5.006,0,0,1,5-5h8.647a6.206,6.206,0,0,1,4.419,1.831l3.6,3.6a6.212,6.212,0,0,1,1.83,4.419v10.9a1.25,1.25,0,1,1-2.5,0Zm-3.751-6.249a1.249,1.249,0,0,1,1.25,1.249v10a1.25,1.25,0,0,1-1.25,1.25h-11a1.25,1.25,0,0,1-1.249-1.25v-10a1.249,1.249,0,0,1,1.249-1.249Zm-9.75,10h2.5V264h-2.5Zm8.5-7.5h-8.5v2.5h3.75a1.249,1.249,0,0,1,1.25,1.249V266.5h3.5Z" transform="translate(-245.219 -241.5)"/>
+</svg>

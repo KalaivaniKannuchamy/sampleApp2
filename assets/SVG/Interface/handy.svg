@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.333" height="32" viewBox="0 0 21.333 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#112436"/>
+      <stop offset="1" stop-color="#235684"/>
+    </linearGradient>
+  </defs>
+  <path id="mobile-button" class="cls-1" d="M18.667,32h-8A6.674,6.674,0,0,1,4,25.333V6.667A6.674,6.674,0,0,1,10.667,0h8a6.674,6.674,0,0,1,6.667,6.667V25.333A6.674,6.674,0,0,1,18.667,32Zm-8-29.333a4,4,0,0,0-4,4V25.333a4,4,0,0,0,4,4h8a4,4,0,0,0,4-4V6.667a4,4,0,0,0-4-4Zm6.667,22.667h0A1.334,1.334,0,0,0,16,24H13.333A1.334,1.334,0,0,0,12,25.333h0a1.334,1.334,0,0,0,1.333,1.333H16A1.334,1.334,0,0,0,17.333,25.333Z" transform="translate(-4)"/>
+</svg>

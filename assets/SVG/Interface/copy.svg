@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26.667" height="32" viewBox="0 0 26.667 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#112436"/>
+      <stop offset="1" stop-color="#235684"/>
+    </linearGradient>
+  </defs>
+  <g id="Gruppe_9032" data-name="Gruppe 9032" transform="translate(-279.063 -438.276)">
+    <path id="copy-alt_1_" data-name="copy-alt(1)" class="cls-1" d="M23.333,6.781,16.552,0H6A4,4,0,0,0,2,4V26.667H23.333ZM4.667,24V4A1.333,1.333,0,0,1,6,2.667h9.333V8h5.333V24Zm24-12V32h-20V29.333H26v-20Z" transform="translate(277.063 438.276)"/>
+  </g>
+</svg>

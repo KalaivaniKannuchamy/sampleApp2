@@ -1,0 +1,28 @@
+import PropTypes from 'prop-types';
+import React from 'react';
+import {Text as RNText} from 'react-native';
+import {Text as PaperText, withTheme} from 'react-native-paper';
+import styles from './styles';
+import { customFontStyle } from '@utils/constant';
+
+/* Component for  MainHeader Text
+style : Style for text other than default style
+theme : Theme is used when we set any theme for text otherwise default theme will be there
+fontWeight : Font weight is used based on font type
+rest : if any text properties other than above three are applied they will apply automatically for this text 
+ */
+const MainHeaderText = ({style, theme, fontWeight, ...rest}) => {
+  return <PaperText style={[styles.mainHeaderDefaultStyle, style, customFontStyle(style, styles.mainHeaderDefaultStyle)]} {...rest} />;
+};
+
+/* Property types that need to passed for MainHeader text*/
+MainHeaderText.propTypes = {
+  style: RNText.propTypes.style,
+  theme: PropTypes.object,
+  fontWeight: PropTypes.string,
+};
+
+/*Default props for MainHeader text*/
+MainHeaderText.defaultProps = {};
+
+export default withTheme(MainHeaderText);

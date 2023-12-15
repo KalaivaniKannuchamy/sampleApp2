@@ -1,0 +1,19 @@
+<svg id="Switch_off" data-name="Switch off" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="24" viewBox="0 0 40 24">
+  <defs>
+    <filter id="Pfad_2645">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.243" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g data-type="innerShadowGroup">
+    <path id="Pfad_2645-2" data-name="Pfad 2645" d="M12,0H28a12,12,0,0,1,0,24H12A12,12,0,0,1,12,0Z" transform="translate(40 24) rotate(180)" fill="#d0d0d0"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Pfad_2645)">
+      <path id="Pfad_2645-3" data-name="Pfad 2645" d="M12,0H28a12,12,0,0,1,0,24H12A12,12,0,0,1,12,0Z" transform="translate(40 24) rotate(180)" fill="#fff"/>
+    </g>
+  </g>
+  <rect id="Rechteck_1002" data-name="Rechteck 1002" width="22" height="22" rx="11" transform="translate(23 23) rotate(180)" fill="#fff" opacity="0.8"/>
+</svg>

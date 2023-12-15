@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #5dd166;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rechteck_2484" data-name="Rechteck 2484" class="cls-1" width="17.42" height="12.172"/>
+    </clipPath>
+  </defs>
+  <g id="Gruppe_9044" data-name="Gruppe 9044" transform="translate(-2216.634 -48)">
+    <path id="Pfad_2534" data-name="Pfad 2534" class="cls-2" d="M16,0A16,16,0,1,1,0,16,16,16,0,0,1,16,0Z" transform="translate(2216.634 48)"/>
+    <g id="Gruppe_6283" data-name="Gruppe 6283" transform="translate(2224.302 58.736)">
+      <g id="Gruppe_6282" data-name="Gruppe 6282" class="cls-3" transform="translate(0 0)">
+        <path id="Pfad_2535" data-name="Pfad 2535" class="cls-4" d="M16.929,2.952l-8.71,8.71a1.743,1.743,0,0,1-2.463,0L.532,6.436A1.742,1.742,0,1,1,2.952,3.93L3,3.973,6.989,7.966,14.466.489a1.742,1.742,0,0,1,2.463,2.463Z" transform="translate(0 0)"/>
+      </g>
+    </g>
+  </g>
+</svg>

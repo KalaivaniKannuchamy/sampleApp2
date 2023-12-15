@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #e24c4b;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Pfad_3455" data-name="Pfad 3455" class="cls-1" d="M0,0H32V32H0Z"/>
+    </clipPath>
+  </defs>
+  <g id="Gruppe_9052" data-name="Gruppe 9052" transform="translate(-34 -34)">
+    <g id="Gruppe_9024" data-name="Gruppe 9024" transform="translate(34 34)">
+      <g id="Gruppe_maskieren_1" data-name="Gruppe maskieren 1" class="cls-2" transform="translate(0 0)">
+        <path id="Pfad_2638" data-name="Pfad 2638" class="cls-3" d="M16,0A16,16,0,1,1,0,16,16,16,0,0,1,16,0" transform="translate(0 0)"/>
+        <path id="Pfad_2639" data-name="Pfad 2639" class="cls-4" d="M16.517,16.517a1.573,1.573,0,0,1-2.2,0l-5.1-5.1-5.1,5.1a1.556,1.556,0,0,1-2.2-2.2l5.1-5.1-5.1-5.1a1.556,1.556,0,0,1,2.2-2.2l5.1,5.1,5.1-5.1a1.556,1.556,0,0,1,2.2,2.2l-5.1,5.1,5.1,5.1a1.563,1.563,0,0,1,0,2.2" transform="translate(6.785 6.785)"/>
+      </g>
+    </g>
+  </g>
+</svg>

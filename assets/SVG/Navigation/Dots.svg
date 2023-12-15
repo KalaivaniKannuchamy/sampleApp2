@@ -1,0 +1,6 @@
+<svg id="Dots" xmlns="http://www.w3.org/2000/svg" width="54" height="6" viewBox="0 0 54 6">
+  <circle id="Ellipse_8" data-name="Ellipse 8" cx="3" cy="3" r="3" fill="#153657"/>
+  <circle id="Ellipse_9" data-name="Ellipse 9" cx="3" cy="3" r="3" transform="translate(16)" fill="#153657" opacity="0.4"/>
+  <circle id="Ellipse_10" data-name="Ellipse 10" cx="3" cy="3" r="3" transform="translate(32)" fill="#153657" opacity="0.4"/>
+  <circle id="Ellipse_11" data-name="Ellipse 11" cx="3" cy="3" r="3" transform="translate(48)" fill="#153657" opacity="0.4"/>
+</svg>

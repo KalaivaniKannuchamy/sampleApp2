@@ -1,0 +1,23 @@
+<svg id="selection_field_inactive" data-name="selection field_inactive" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <filter id="Ellipse_40" x="0" y="0" width="22" height="22" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.502" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Gruppe_6990" data-name="Gruppe 6990" transform="translate(-64 -250)" opacity="0.7">
+    <g id="Gruppe_6989" data-name="Gruppe 6989">
+      <g data-type="innerShadowGroup">
+        <circle id="Ellipse_40-2" data-name="Ellipse 40" cx="11" cy="11" r="11" transform="translate(64 250)" fill="#fff"/>
+        <g transform="matrix(1, 0, 0, 1, 64, 250)" filter="url(#Ellipse_40)">
+          <circle id="Ellipse_40-3" data-name="Ellipse 40" cx="11" cy="11" r="11" fill="#fff"/>
+        </g>
+      </g>
+      <circle id="Ellipse_41" data-name="Ellipse 41" cx="5" cy="5" r="5" transform="translate(70 256)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg id="Switch_On" data-name="Switch On" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="24" viewBox="0 0 40 24">
+  <defs>
+    <filter id="Rechteck_1001">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.325" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g data-type="innerShadowGroup">
+    <rect id="Rechteck_1001-2" data-name="Rechteck 1001" width="40" height="24" rx="12" fill="#5dd166"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rechteck_1001)">
+      <rect id="Rechteck_1001-3" data-name="Rechteck 1001" width="40" height="24" rx="12" fill="#fff"/>
+    </g>
+  </g>
+  <rect id="Rechteck_1002" data-name="Rechteck 1002" width="22" height="22" rx="11" transform="translate(17 1)" fill="#fff"/>
+</svg>

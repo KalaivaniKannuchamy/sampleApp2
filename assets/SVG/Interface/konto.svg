@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25.502" height="32.013" viewBox="0 0 25.502 32.013">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#112436"/>
+      <stop offset="1" stop-color="#235684"/>
+    </linearGradient>
+  </defs>
+  <g id="Gruppe_8786" data-name="Gruppe 8786" transform="translate(-329 -623.965)">
+    <path id="Pfad_2898" data-name="Pfad 2898" class="cls-1" d="M14.5,17A8.5,8.5,0,1,0,6,8.5,8.5,8.5,0,0,0,14.5,17Zm0-14.168A5.667,5.667,0,1,1,8.834,8.5,5.667,5.667,0,0,1,14.5,2.834Z" transform="translate(327.002 623.965)"/>
+    <path id="Pfad_2899" data-name="Pfad 2899" class="cls-1" d="M15.751,14A12.765,12.765,0,0,0,3,26.751a1.417,1.417,0,1,0,2.834,0,9.917,9.917,0,0,1,19.835,0,1.417,1.417,0,0,0,2.834,0A12.765,12.765,0,0,0,15.751,14Z" transform="translate(326 627.81)"/>
+  </g>
+</svg>

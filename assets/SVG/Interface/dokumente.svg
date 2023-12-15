@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26.663" height="32" viewBox="0 0 26.663 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#112436"/>
+      <stop offset="1" stop-color="#235684"/>
+    </linearGradient>
+  </defs>
+  <g id="unlock_1_" data-name="unlock(1)" transform="translate(-2 0.003)">
+    <path id="Pfad_3264" data-name="Pfad 3264" class="cls-1" d="M22,10.666H8.666V9.333A6.666,6.666,0,0,1,21.164,6.1,1.333,1.333,0,1,0,23.5,4.81,9.332,9.332,0,0,0,6,9.333v1.9a6.666,6.666,0,0,0-4,6.1v8A6.674,6.674,0,0,0,8.666,32H22a6.674,6.674,0,0,0,6.666-6.666v-8A6.674,6.674,0,0,0,22,10.666Zm4,14.665a4,4,0,0,1-4,4H8.666a4,4,0,0,1-4-4v-8a4,4,0,0,1,4-4H22a4,4,0,0,1,4,4Z" transform="translate(0 0)"/>
+    <path id="Pfad_3265" data-name="Pfad 3265" class="cls-1" d="M12.333,14A1.333,1.333,0,0,0,11,15.333V18a1.333,1.333,0,0,0,2.666,0V15.333A1.333,1.333,0,0,0,12.333,14Z" transform="translate(2.999 4.665)"/>
+  </g>
+</svg>

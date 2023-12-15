@@ -1,0 +1,18 @@
+<svg id="Gruppe_9022" data-name="Gruppe 9022" xmlns="http://www.w3.org/2000/svg" width="36" height="32" viewBox="0 0 36 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffc400;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Pfad_2531" data-name="Pfad 2531" class="cls-1" d="M34.414,24.243,19.484,50.1a3.071,3.071,0,0,0,2.66,4.608H52a3.071,3.071,0,0,0,2.66-4.608L39.733,24.243a3.071,3.071,0,0,0-5.319,0Z" transform="translate(-19.072 -22.708)"/>
+  <g id="Gruppe_6281" data-name="Gruppe 6281" transform="translate(16.07 9.51)">
+    <rect id="Rechteck_2483" data-name="Rechteck 2483" class="cls-2" width="3.862" height="11.77" rx="1.931" transform="translate(0 0)"/>
+    <ellipse id="Ellipse_55" data-name="Ellipse 55" class="cls-2" cx="1.931" cy="1.931" rx="1.931" ry="1.931" transform="translate(0 14.49)"/>
+  </g>
+</svg>

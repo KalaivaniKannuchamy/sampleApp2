@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#112436"/>
+      <stop offset="1" stop-color="#235684"/>
+    </linearGradient>
+  </defs>
+  <g id="Gruppe_9035" data-name="Gruppe 9035" transform="translate(-40 -600.356)">
+    <g id="download_1_" data-name="download(1)" transform="translate(40 600.356)">
+      <path id="Pfad_2853" data-name="Pfad 2853" class="cls-1" d="M11.046,24.163a4,4,0,0,0,5.659,0l4.281-4.281A1.333,1.333,0,0,0,19.1,18l-3.9,3.9.009-20.569A1.333,1.333,0,0,0,13.875,0h0a1.333,1.333,0,0,0-1.333,1.333L12.53,21.877,8.65,18a1.334,1.334,0,1,0-1.885,1.887Z" transform="translate(2.125)"/>
+      <path id="Pfad_2854" data-name="Pfad 2854" class="cls-1" d="M30.667,16h0a1.333,1.333,0,0,0-1.333,1.333v5.333A1.333,1.333,0,0,1,28,24H4a1.333,1.333,0,0,1-1.333-1.333V17.333A1.333,1.333,0,0,0,1.333,16h0A1.333,1.333,0,0,0,0,17.333v5.333a4,4,0,0,0,4,4H28a4,4,0,0,0,4-4V17.333A1.333,1.333,0,0,0,30.667,16Z" transform="translate(0 5.333)"/>
+    </g>
+  </g>
+</svg>

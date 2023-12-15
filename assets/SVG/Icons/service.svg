@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66" height="66" viewBox="0 0 66 66">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#112436"/>
+      <stop offset="1" stop-color="#235684"/>
+    </linearGradient>
+  </defs>
+  <g id="Gruppe_9046" data-name="Gruppe 9046" transform="translate(183 -213)">
+    <g id="conversation" transform="translate(-183 213)">
+      <g id="Gruppe_7771" data-name="Gruppe 7771" transform="translate(0 22.43)">
+        <g id="Gruppe_7770" data-name="Gruppe 7770">
+          <path id="Pfad_2948" data-name="Pfad 2948" class="cls-1" d="M44.6,192.691a1.289,1.289,0,0,0-1.289,1.289v8.895a6.453,6.453,0,0,1-6.445,6.445H22.949a1.289,1.289,0,0,0-1.289,1.288l0,2.563-3.077-3.077a1.29,1.29,0,0,0-1.182-.775H9.023a6.453,6.453,0,0,1-6.445-6.445V183.023a6.453,6.453,0,0,1,6.445-6.445h13.02a1.289,1.289,0,1,0,0-2.578H9.023A9.034,9.034,0,0,0,0,183.023v19.852A9.034,9.034,0,0,0,9.023,211.9H16.74l5.294,5.294a1.289,1.289,0,0,0,2.2-.911l0-4.384h12.63a9.034,9.034,0,0,0,9.023-9.023V193.98A1.289,1.289,0,0,0,44.6,192.691Z" transform="translate(0 -174)"/>
+        </g>
+      </g>
+      <g id="Gruppe_7773" data-name="Gruppe 7773" transform="translate(25.266)">
+        <g id="Gruppe_7772" data-name="Gruppe 7772">
+          <path id="Pfad_2949" data-name="Pfad 2949" class="cls-1" d="M218,0h-3.262a18.736,18.736,0,1,0,0,37.472H218a18.772,18.772,0,0,0,4.755-.61l4.819,4.817a1.289,1.289,0,0,0,2.2-.912V33.309a18.916,18.916,0,0,0,4.925-6.072,18.535,18.535,0,0,0,2.036-8.5A18.757,18.757,0,0,0,218,0Zm9.71,31.651a1.289,1.289,0,0,0-.513,1.03v4.976L224.041,34.5a1.288,1.288,0,0,0-1.29-.32,16.162,16.162,0,0,1-4.753.711h-3.262a16.158,16.158,0,0,1,0-32.316H218a16.158,16.158,0,0,1,9.71,29.073Z" transform="translate(-196)"/>
+        </g>
+      </g>
+      <g id="Gruppe_7775" data-name="Gruppe 7775" transform="translate(40.536 9.032)">
+        <g id="Gruppe_7774" data-name="Gruppe 7774">
+          <path id="Pfad_2950" data-name="Pfad 2950" class="cls-1" d="M325.364,75.137a5.47,5.47,0,0,0-5.06-5.06,5.415,5.415,0,0,0-4.107,1.454,5.477,5.477,0,0,0-1.734,3.99,1.289,1.289,0,1,0,2.578,0,2.88,2.88,0,0,1,3.086-2.872,2.88,2.88,0,0,1,.426,5.682,2.439,2.439,0,0,0-1.922,2.391v3.1a1.289,1.289,0,1,0,2.578,0V80.825A5.429,5.429,0,0,0,325.364,75.137Z" transform="translate(-314.462 -70.063)"/>
+        </g>
+      </g>
+      <g id="Gruppe_7777" data-name="Gruppe 7777" transform="translate(44.705 26.597)">
+        <g id="Gruppe_7776" data-name="Gruppe 7776">
+          <path id="Pfad_2951" data-name="Pfad 2951" class="cls-1" d="M349,206.708a1.29,1.29,0,1,0,.378.911A1.3,1.3,0,0,0,349,206.708Z" transform="translate(-346.8 -206.33)"/>
+        </g>
+      </g>
+      <g id="Gruppe_7779" data-name="Gruppe 7779" transform="translate(6.961 39.961)">
+        <g id="Gruppe_7778" data-name="Gruppe 7778">
+          <path id="Pfad_2952" data-name="Pfad 2952" class="cls-1" d="M82.488,310h-27.2a1.289,1.289,0,0,0,0,2.578h27.2a1.289,1.289,0,0,0,0-2.578Z" transform="translate(-54 -310)"/>
+        </g>
+      </g>
+      <g id="Gruppe_7781" data-name="Gruppe 7781" transform="translate(34.16 47.18)">
+        <g id="Gruppe_7780" data-name="Gruppe 7780">
+          <path id="Pfad_2953" data-name="Pfad 2953" class="cls-1" d="M267.2,366.378a1.288,1.288,0,1,0,.378.911A1.3,1.3,0,0,0,267.2,366.378Z" transform="translate(-265 -366)"/>
+        </g>
+      </g>
+      <g id="Gruppe_7783" data-name="Gruppe 7783" transform="translate(6.961 47.18)">
+        <g id="Gruppe_7782" data-name="Gruppe 7782">
+          <path id="Pfad_2954" data-name="Pfad 2954" class="cls-1" d="M77.418,366H55.289a1.289,1.289,0,0,0,0,2.578H77.418a1.289,1.289,0,0,0,0-2.578Z" transform="translate(-54 -366)"/>
+        </g>
+      </g>
+      <g id="Gruppe_7785" data-name="Gruppe 7785" transform="translate(6.961 32.742)">
+        <g id="Gruppe_7784" data-name="Gruppe 7784">
+          <path id="Pfad_2955" data-name="Pfad 2955" class="cls-1" d="M74.109,254H55.289a1.289,1.289,0,1,0,0,2.578h18.82a1.289,1.289,0,1,0,0-2.578Z" transform="translate(-54 -254)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
